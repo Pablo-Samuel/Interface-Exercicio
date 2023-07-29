@@ -1,0 +1,7 @@
+C:\ws-vs2019\Interfaces (Exercício de fixação)\Interfaces (Exercício de fixação)\bin\Debug\Interfaces (Exercício de fixação).exe.config
+C:\ws-vs2019\Interfaces (Exercício de fixação)\Interfaces (Exercício de fixação)\bin\Debug\Interfaces (Exercício de fixação).exe
+C:\ws-vs2019\Interfaces (Exercício de fixação)\Interfaces (Exercício de fixação)\bin\Debug\Interfaces (Exercício de fixação).pdb
+C:\ws-vs2019\Interfaces (Exercício de fixação)\Interfaces (Exercício de fixação)\obj\Debug\Exercicio.csproj.AssemblyReference.cache
+C:\ws-vs2019\Interfaces (Exercício de fixação)\Interfaces (Exercício de fixação)\obj\Debug\Exercicio.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Interfaces (Exercício de fixação)\Interfaces (Exercício de fixação)\obj\Debug\Interfaces (Exercício de fixação).exe
+C:\ws-vs2019\Interfaces (Exercício de fixação)\Interfaces (Exercício de fixação)\obj\Debug\Interfaces (Exercício de fixação).pdb
